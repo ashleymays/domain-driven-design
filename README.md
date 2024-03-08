@@ -1,6 +1,6 @@
 # domain-driven-design :zap:
 
-Resources on domain-driven design
+A collection of resources and examples on domain-driven design.
 
 ## Articles
 
